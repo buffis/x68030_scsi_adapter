@@ -1,4 +1,5 @@
 x68030_scsi/fp-info-cache
 x68030_scsi/x68030_scsi-backups
 *.lck
+*.tmp
 .DS_Store
