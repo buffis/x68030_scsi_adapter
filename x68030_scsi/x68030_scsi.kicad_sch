@@ -8815,6 +8815,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser" "737-BHR-50-VUA "
+			(at 81.28 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "de067d7a-f2f7-4227-8c64-b6e2bcf3747a")
 		)
@@ -10301,6 +10310,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 231.14 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "538-87831-4021  "
 			(at 231.14 85.09 0)
 			(effects
 				(font
