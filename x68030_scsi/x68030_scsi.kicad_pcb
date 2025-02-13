@@ -8373,7 +8373,7 @@
 		)
 	)
 	(gr_text "IDSW"
-		(at 32.512 124.46 0)
+		(at 42.926 131.191 90)
 		(layer "F.SilkS")
 		(uuid "435f8fb4-6a98-46a6-9e50-7afb97eb1285")
 		(effects
