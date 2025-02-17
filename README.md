@@ -11,4 +11,6 @@ See https://buffis.com/old-hardware/retro-computers/the-x68030-scsi-adventure-pa
 - F1: MFU0805FF01000P500 (or other 1A 0805 fuse)
 - J1: 10129381-950002BLF (2.54mm pitch pin header)
 - J2: 57102-G06-20LF (2.00mm pitch pin header)
+
+IDSW and J5 can be left unpopulated.
   
